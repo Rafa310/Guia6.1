@@ -1,0 +1,13 @@
+F:\programacion\Practica 6\Ejercicio1Guia\Ejercicio1Guia\bin\Debug\netcoreapp3.1\Ejercicio1Guia.exe
+F:\programacion\Practica 6\Ejercicio1Guia\Ejercicio1Guia\bin\Debug\netcoreapp3.1\Ejercicio1Guia.deps.json
+F:\programacion\Practica 6\Ejercicio1Guia\Ejercicio1Guia\bin\Debug\netcoreapp3.1\Ejercicio1Guia.runtimeconfig.json
+F:\programacion\Practica 6\Ejercicio1Guia\Ejercicio1Guia\bin\Debug\netcoreapp3.1\Ejercicio1Guia.runtimeconfig.dev.json
+F:\programacion\Practica 6\Ejercicio1Guia\Ejercicio1Guia\bin\Debug\netcoreapp3.1\Ejercicio1Guia.dll
+F:\programacion\Practica 6\Ejercicio1Guia\Ejercicio1Guia\bin\Debug\netcoreapp3.1\Ejercicio1Guia.pdb
+F:\programacion\Practica 6\Ejercicio1Guia\Ejercicio1Guia\obj\Debug\netcoreapp3.1\Ejercicio1Guia.csprojAssemblyReference.cache
+F:\programacion\Practica 6\Ejercicio1Guia\Ejercicio1Guia\obj\Debug\netcoreapp3.1\Ejercicio1Guia.AssemblyInfoInputs.cache
+F:\programacion\Practica 6\Ejercicio1Guia\Ejercicio1Guia\obj\Debug\netcoreapp3.1\Ejercicio1Guia.AssemblyInfo.cs
+F:\programacion\Practica 6\Ejercicio1Guia\Ejercicio1Guia\obj\Debug\netcoreapp3.1\Ejercicio1Guia.csproj.CoreCompileInputs.cache
+F:\programacion\Practica 6\Ejercicio1Guia\Ejercicio1Guia\obj\Debug\netcoreapp3.1\Ejercicio1Guia.dll
+F:\programacion\Practica 6\Ejercicio1Guia\Ejercicio1Guia\obj\Debug\netcoreapp3.1\Ejercicio1Guia.pdb
+F:\programacion\Practica 6\Ejercicio1Guia\Ejercicio1Guia\obj\Debug\netcoreapp3.1\Ejercicio1Guia.genruntimeconfig.cache
